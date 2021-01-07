@@ -98,30 +98,28 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 <details open>
 <summary>Show/Hide</summary>
 <br>
-
 * adadadad
-
 * adadadadad
   
+</details>
+
   ### Chapter 2:
 <details open>
 <summary>Show/Hide</summary>
 <br>
-
 * adadadad
-
 * adadadada
-  
+ </details>
+ 
   ### Chapter 3:
 <details open>
 <summary>Show/Hide</summary>
 <br>
-  
-  
-  
+</details>
+
   ### Chapter 4:
 <details open>
 <summary>Show/Hide</summary>
 <br>
-
+</details>
 
