@@ -1,4 +1,22 @@
-<h1 align='center'>RHODE ISLAND EXPLORATORY ANALYSIS</h1>
+<h1 align='center'>RHODE ISLAND EXPLORATORY DATA ANALYSIS PROJECT</h1>
+
+Email: edu.dalbasti@gmail.com <br>
+LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
+
+## Table of Contents
+<details open>
+<summary>Show/Hide</summary>
+<br>
+
+1. <strong>Quick Summary</strong>
+2. <strong>Structure of Notebooks</strong>
+3. <strong>File Descriptions</strong> 
+4. <strong>Technologies Used</strong> 
+5. <strong>Executive Summary</strong>
+
+</details>
+
+
 
 ## Summary
 
@@ -86,24 +104,6 @@ We can test this hypothesis by calculating the annual search rate, and then plot
 <p align="center">
       <img src="https://github.com/muhammetdalbasti/Data-Analysis-and-Visualization-with-Python/blob/master/images/Drug%20and%20Searched.PNG" width=600>
 </p>
-
-
-Email: edu.dalbasti@gmail.com <br>
-LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
-
-
-## Table of Contents
-<details open>
-<summary>Show/Hide</summary>
-<br>
-
-1. <strong>Structure of Notebooks</strong>
-2. <strong>File Descriptions</strong> 
-3. <strong>Technologies Used</strong> 
-4. <strong>Executive Summary</strong>
-
-</details>
-
 
 
 ## Structure of Notebooks
