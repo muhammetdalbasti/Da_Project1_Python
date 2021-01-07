@@ -66,6 +66,8 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 * police.csv.zip
 * weather.csv
 
+</details>
+
 ## Tecnologies Used:
 <details>
 <a name="Technologies_Used"></a>
