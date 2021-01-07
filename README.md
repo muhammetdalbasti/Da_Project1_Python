@@ -24,6 +24,39 @@ When a driver is pulled over for speeding, many people believe that gender has a
               Warning             0.036086
       
 
+I'll compare the rates at which female and male drivers are searched during a traffic stop.
+
+      Findings: If you are a man you slightly more likely to being searched.
+      
+            driver_gender
+            F    0.018751
+            M    0.043792
+
+Even though the search rate for males is much higher than for females, it's possible that the difference is mostly due to a second factor.
+
+For example, we might hypothesize that the search rate varies by violation type, and the difference in search rate between males and females is because they tend to commit different violations.
+
+We can test this hypothesis by examining the search rate for each combination of gender and violation. If the hypothesis was true, I would find that males and females are searched at about the same rate for each violation.
+
+      violation            driver_gender
+      Equipment            F                0.040245
+                           M                0.070916
+      Moving violation     F                0.038021
+                           M                0.059156
+      Other                F                0.045898
+                           M                0.046120
+      Registration/plates  F                0.054700
+                           M                0.103589  --> The difference is coming from here. Man and plates problems make your car beign searched more than others.
+      Seat belt            F                0.017746
+                           M                0.031705
+      Speeding             F                0.007738
+                           M                0.026630
+
+
+Are you more likely to get arrested at a certain time of day?
+
+      <img src="" width=600>
+</p>
 
 
 
