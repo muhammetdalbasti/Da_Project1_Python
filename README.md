@@ -1,9 +1,23 @@
 <h1 align='center'>RHODE ISLAND EXPLORATORY ANALYSIS</h1>
 
-## Business Case
+## Summary
 
-By using Exploratory Data Analysis, on Rhode Island's Police Department and Weather data on that period of time, I try to find which type of violations committed. Do Gender has effect
-on Police's decision. Is there any significant effect of weather conditions on crime and police's decisions.
+I'll be analyzing a dataset of traffic stops in Rhode Island that was collected by the Stanford Open Policing Project.
+
+Does the gender of a driver have an impact on police behavior during a traffic stop? I will also explore that question while practicing filtering, grouping, method chaining, Boolean math, string methods, and more!
+
+      Findings
+      * %65 of violations of female stem from "Speeding" and %13 from "Moving Violations".
+      * %52 of violations of men stem from "Speeding" and %20 from "Moving Violations".
+      
+
+Also I will try to find an answer to the question we're trying to answer is whether male and female drivers tend to commit different types of traffic violations.
+
+When a driver is pulled over for speeding, many people believe that gender has an impact on whether the driver will receive a ticket or a warning.
+
+
+
+
 
 Email: edu.dalbasti@gmail.com <br>
 LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
@@ -14,9 +28,9 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 <summary>Show/Hide</summary>
 <br>
 
-1. <strong>File Descriptions</strong>
-2. <strong>Technologies Used</strong>  
-3. <strong>Structure</strong>
+1. <strong>Structure of Notebooks</strong>
+2. <strong>File Descriptions</strong> 
+3. <strong>Technologies Used</strong> 
 4. <strong>Executive Summary</strong>
 
 </details>
@@ -69,7 +83,7 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 
 ## File Descriptions
 <details>
-<a name="File_Description"></a>
+
 <summary>Show/Hide</summary>
 <br>
 
@@ -81,6 +95,7 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 
 ## Tecnologies Used:
 <details>
+<summary>Show/Hide</summary>
 <br>
     
 * <strong>Python</strong>
