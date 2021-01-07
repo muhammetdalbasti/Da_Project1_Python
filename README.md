@@ -70,7 +70,7 @@ The Boolean column drugs_related_stop indicates whether drugs were found during 
 
       Findings: Drug related stops rates are on the increase.
       
-      <h5 align="center">Annual Drug Related Stop</h5>
+<h5 align="center">Annual Drug Related Stop</h5>
 <p align="center">
       <img src="https://github.com/muhammetdalbasti/Data-Analysis-and-Visualization-with-Python/blob/master/images/Annual%20Drug%20Rate.PNG" width=600>
 </p>
@@ -82,7 +82,7 @@ We can test this hypothesis by calculating the annual search rate, and then plot
 
     Findings: Hypothesis is false.
       
-      <h5 align="center">Search Rate and Drug Search</h5>
+<h5 align="center">Search Rate and Drug Search</h5>
 <p align="center">
       <img src="https://github.com/muhammetdalbasti/Data-Analysis-and-Visualization-with-Python/blob/master/images/Drug%20and%20Searched.PNG" width=600>
 </p>
