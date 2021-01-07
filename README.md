@@ -4,16 +4,25 @@
 
 I'll be analyzing a dataset of traffic stops in Rhode Island that was collected by the Stanford Open Policing Project.
 
-Does the gender of a driver have an impact on police behavior during a traffic stop? I will also explore that question while practicing filtering, grouping, method chaining, Boolean math, string methods, and more!
+Does the gender of a driver have an impact on police behavior during a traffic stop? I will also explore that question while practicing filtering, grouping, method chaining, Boolean math, string methods, and more! Also I will try to find an answer to the question we're trying to answer is whether male and female drivers tend to commit different types of traffic violations.
 
       Findings
-      * %65 of violations of female stem from "Speeding" and %13 from "Moving Violations".
-      * %52 of violations of men stem from "Speeding" and %20 from "Moving Violations".
+      * %65 of violations made by females stem from "Speeding" and %13 from "Moving Violations".
+      * %52 of violations made by males stem from "Speeding" and %20 from "Moving Violations".
       
+When a driver is pulled over for speeding, many people believe that gender has an impact on whether the driver will receive a ticket or a warning. I'll use the stop_outcome column to calculate what percentage of stops result.
 
-Also I will try to find an answer to the question we're trying to answer is whether male and female drivers tend to commit different types of traffic violations.
-
-When a driver is pulled over for speeding, many people believe that gender has an impact on whether the driver will receive a ticket or a warning.
+      Findings: As you seen there is no significant difference of being man or woman on receving ticket or warning.
+      
+              Citation            0.953247
+      Female
+              Warning             0.039003
+      
+      
+              Citation            0.944636
+       Male       
+              Warning             0.036086
+      
 
 
 
