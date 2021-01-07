@@ -91,5 +91,10 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 
 </details>
 
+<a name="Executive_Summary"></a>
+## Executive Summary
+
+* adad
+* adada
 
 
