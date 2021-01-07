@@ -17,42 +17,42 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 2. Technologies Used  
 3. Structure
 4. Executive Summary
-   * 1. Chapter 1
-       * Examining the dataset
-       * Dropping rows
-       * Fixing a data type
-       * Combining object columns
-       * Changing Index
-       * Dropping columns
+   * [1. Chapter 1]
+          * Examining the dataset
+          * Dropping rows
+          * Fixing a data type
+          * Combining object columns
+          * Changing Index
+          * Dropping columns
    * 2. Chapter 2
-       * Examining traffic violations
-       * Comparing violations by gender
-       * Comparing speeding outcomes by gend
-       * Calculating the search rate
-       * Comparing search rates by gender
-       * Adding a second factor to the analysis
-       * Counting protective frisks
-       * Comparing frisk rates by gender
+          * Examining traffic violations
+          * Comparing violations by gender
+          * Comparing speeding outcomes by gend
+          * Calculating the search rate
+          * Comparing search rates by gender
+          * Adding a second factor to the analysis
+          * Counting protective frisks
+          * Comparing frisk rates by gender
    * 3. Chapter 3
-       * Calculating the hourly arrest rate
-       * Plotting the hourly arrest rate
-       * Plotting drug-related stops
-       * Comparing drug and search rates
-       * Tallying violations by district
-       * Plotting violations by district
-       * Converting stop durations to numbers
-       * Plotting stop length
-   * [ 4. Chapter 4
-       * Plotting the temperature
-       * Plotting the temperature difference
-       * Counting bad weather conditions
-       * Rating the weather conditions
-       * Changing the data type to category
-       * Preparing the DataFrames
-       * Merging the DataFrames
-       * Comparing arrest rates by weather rating
-       * Selecting From a mult-indexed Series
-       * Reshaping the arrest rate data
+          * Calculating the hourly arrest rate
+          * Plotting the hourly arrest rate
+          * Plotting drug-related stops
+          * Comparing drug and search rates
+          * Tallying violations by district
+          * Plotting violations by district
+          * Converting stop durations to numbers
+          * Plotting stop length
+   * [4. Chapter 4]
+          * Plotting the temperature
+          * Plotting the temperature difference
+          * Counting bad weather conditions
+          * Rating the weather conditions
+          * Changing the data type to category
+          * Preparing the DataFrames
+          * Merging the DataFrames
+          * Comparing arrest rates by weather rating
+          * Selecting From a mult-indexed Series
+          * Reshaping the arrest rate data
 </details>
 
 
