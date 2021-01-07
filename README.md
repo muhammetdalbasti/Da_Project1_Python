@@ -64,6 +64,11 @@ Are you more likely to get arrested at a certain time of day?
 </p>
 
 
+In a small portion of traffic stops, drugs are found in the vehicle during a search. I'll assess whether these drug-related stops are becoming more common over time.
+
+The Boolean column drugs_related_stop indicates whether drugs were found during a given stop. I'll calculate the annual drug rate by resampling this column, and then you'll use a line plot to visualize how the rate has changed over time.
+
+      Findings: 
 
 
 Email: edu.dalbasti@gmail.com <br>
