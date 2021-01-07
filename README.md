@@ -1,7 +1,7 @@
 <h1 align='center'>RHODE ISLAND EXPLORATORY DATA ANALYSIS PROJECT</h1>
 
 
-# Table of Contents
+## Table of Contents
 <br>
 
 1. <strong>Quick Summary</strong>
