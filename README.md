@@ -1,9 +1,7 @@
 <h1 align='center'>RHODE ISLAND EXPLORATORY DATA ANALYSIS PROJECT</h1>
 
 
-## Table of Contents
-<details open>
-<summary>Show/Hide</summary>
+# Table of Contents
 <br>
 
 1. <strong>Quick Summary</strong>
@@ -11,9 +9,6 @@
 3. <strong>File Descriptions</strong> 
 4. <strong>Technologies Used</strong> 
 5. <strong>Executive Summary</strong>
-
-</details>
-
 
 
 ## Summary
