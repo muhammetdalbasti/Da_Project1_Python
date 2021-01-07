@@ -28,10 +28,6 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 <summary>Show/Hide</summary>
 <br>
 
-1. File Descriptions
-2. Technologies Used  
-3. Structure
-4. Executive Summary
    * 1. Chapter 1
           * Examining the dataset
           * Dropping rows
