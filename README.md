@@ -14,10 +14,10 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 <summary>Show/Hide</summary>
 <br>
 
-1. [ File Descriptions ](#File_Description)
-2. [ Technologies Used ](#Technologies_Used)    
-3. [ Structure ](#Structure)
-4. [ Executive Summary ](#Executive_Summary)
+1. <strong>File Descriptions</strong>
+2. <strong>Technologies Used</strong>  
+3. <strong>Structure</strong>
+4. <strong>Executive Summary</strong>
 
 </details>
 
@@ -81,8 +81,6 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 
 ## Tecnologies Used:
 <details>
-<a name="Technologies_Used"></a>
-<summary>Show/Hide</summary>
 <br>
     
 * <strong>Python</strong>
@@ -91,14 +89,14 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 
 </details>
 
-<a name="Executive_Summary"></a>
+
 ## Executive Summary
 
 ### Chapter 1:
 <details>
 <summary>Show/Hide</summary>
 <br>
-    <strong>I'll be analyzing a dataset of traffic stops in Rhode Island that was collected by the Stanford Open Policing Project.</strong>
+    I'll be analyzing a dataset of traffic stops in Rhode Island that was collected by the Stanford Open Policing Project.
     * It's important that we familiarize ourself with the dataset. I'll read the dataset into pandas, examine the first few rows, and then count the number of missing values.
     * I'll drop the county_name column because it only contains missing values, and I'll drop the state column because all of the traffic stops took place in one state (Rhode         Island). Thus, these columns can be dropped because they contain no useful information.
     * The driver_gender column will be critical to many of our analyses. Because only a small fraction of rows are missing driver_gender, we'll drop those rows from the dataset.
@@ -113,7 +111,7 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 <details>
 <summary>Show/Hide</summary>
 <br>
-    <strong>Does the gender of a driver have an impact on police behavior during a traffic stop? In this chapter, I will explore that question while practicing filtering,           grouping, method chaining, Boolean math, string methods, and more!</strong>
+    * Does the gender of a driver have an impact on police behavior during a traffic stop? In this chapter, I will explore that question while practicing filtering,                   grouping, method chaining, Boolean math, string methods, and more!
     * Before comparing the violations being committed by each gender, I should examine the violations committed by all drivers to get a baseline understanding of the data.
     * I'll first create a DataFrame for each gender, and then analyze the violations in each DataFrame separately.
     * First, I'll create two DataFrames of drivers who were stopped for speeding: one containing females and the other containing males. Then, for each gender, I'll use the           stop_outcome column to calculate what percentage of stops resulted in a "Citation" (meaning a ticket) versus a "Warning".
