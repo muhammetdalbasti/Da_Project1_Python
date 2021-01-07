@@ -68,8 +68,13 @@ In a small portion of traffic stops, drugs are found in the vehicle during a sea
 
 The Boolean column drugs_related_stop indicates whether drugs were found during a given stop. I'll calculate the annual drug rate by resampling this column, and then you'll use a line plot to visualize how the rate has changed over time.
 
-      Findings: 
-
+      Findings: Drug related stops rates are on the increase.
+      
+      <h5 align="center">Annual Drug Related Stop</h5>
+<p align="center">
+      <img src="https://github.com/muhammetdalbasti/Data-Analysis-and-Visualization-with-Python/blob/master/images/Annual%20Drug%20Rate.PNG
+" width=600>
+</p>
 
 Email: edu.dalbasti@gmail.com <br>
 LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
