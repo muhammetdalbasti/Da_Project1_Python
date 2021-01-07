@@ -72,8 +72,7 @@ The Boolean column drugs_related_stop indicates whether drugs were found during 
       
       <h5 align="center">Annual Drug Related Stop</h5>
 <p align="center">
-      <img src="https://github.com/muhammetdalbasti/Data-Analysis-and-Visualization-with-Python/blob/master/images/Annual%20Drug%20Rate.PNG
-" width=600>
+      <img src="https://github.com/muhammetdalbasti/Data-Analysis-and-Visualization-with-Python/blob/master/images/Annual%20Drug%20Rate.PNG" width=600>
 </p>
 
 Email: edu.dalbasti@gmail.com <br>
