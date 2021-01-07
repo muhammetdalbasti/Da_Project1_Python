@@ -94,7 +94,34 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 <a name="Executive_Summary"></a>
 ## Executive Summary
 
-* adad
-* adada
+### Chapter 1:
+<details open>
+<summary>Show/Hide</summary>
+<br>
+
+* adadadad
+
+* adadadadad
+  
+  ### Chapter 2:
+<details open>
+<summary>Show/Hide</summary>
+<br>
+
+* adadadad
+
+* adadadada
+  
+  ### Chapter 3:
+<details open>
+<summary>Show/Hide</summary>
+<br>
+  
+  
+  
+  ### Chapter 4:
+<details open>
+<summary>Show/Hide</summary>
+<br>
 
 
