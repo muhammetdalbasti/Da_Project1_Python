@@ -53,6 +53,7 @@ We can test this hypothesis by examining the search rate for each combination of
                            M                0.026630
 
 
+
 Are you more likely to get arrested at a certain time of day?
 <h5 align="center">Hourly Arrest Rates</h5>
 <p align="center">
