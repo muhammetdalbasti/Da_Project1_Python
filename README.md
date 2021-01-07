@@ -8,8 +8,23 @@ on Police's decision. Is there any significant effect of weather conditions on c
 Email: edu.dalbasti@gmail.com <br>
 LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 
+
 ## Table of Contents
 <details open>
+<summary>Show/Hide</summary>
+<br>
+
+1. [ File Descriptions ](#File_Description)
+2. [ Technologies Used ](#Technologies_Used)    
+3. [ Structure ](#Structure)
+4. [ Executive Summary ](#Executive_Summary)
+
+</details>
+
+
+
+## Structure of Notebooks
+<details>
 <summary>Show/Hide</summary>
 <br>
 
