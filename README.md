@@ -54,7 +54,8 @@ We can test this hypothesis by examining the search rate for each combination of
 
 
 Are you more likely to get arrested at a certain time of day?
-
+<h5 align="center">Hourlt Arrest Rates</h5>
+<p align="center">
       <img src="https://github.com/muhammetdalbasti/Data-Analysis-and-Visualization-with-Python/blob/master/images/hourly_arrest_rate.png.PNG" width=600>
 </p>
 
