@@ -95,7 +95,7 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 ## Executive Summary
 
 ### Chapter 1:
-<details open>
+<details>
 <summary>Show/Hide</summary>
 <br>
     <strong>I'll be analyzing a dataset of traffic stops in Rhode Island that was collected by the Stanford Open Policing Project.</strong>
@@ -110,7 +110,7 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 </details>
 
   ### Chapter 2:
-<details open>
+<details>
 <summary>Show/Hide</summary>
 <br>
     <strong>Does the gender of a driver have an impact on police behavior during a traffic stop? In this chapter, I will explore that question while practicing filtering,           grouping, method chaining, Boolean math, string methods, and more!</strong>
@@ -124,7 +124,7 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
  </details>
  
   ### Chapter 3:
-<details open>
+<details>
 <summary>Show/Hide</summary>
 <br>
     * When a police officer stops a driver, a small percentage of those stops ends in an arrest. This is known as the arrest rate. Now I'll find out whether the arrest rate           varies by time of day.
@@ -138,7 +138,7 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 </details>
 
   ### Chapter 4:
-<details open>
+<details>
 <summary>Show/Hide</summary>
 <br>
     * I'll examine the temperature columns from the weather dataset to assess whether the data seems trustworthy. First I'll print the summary statistics, and then I'll               visualize the data using a box plot. Temperature is measured in degrees Fahrenheit, not Celsius!
