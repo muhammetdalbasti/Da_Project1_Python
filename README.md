@@ -1,7 +1,5 @@
 <h1 align='center'>RHODE ISLAND EXPLORATORY DATA ANALYSIS PROJECT</h1>
 
-Email: edu.dalbasti@gmail.com <br>
-LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 
 ## Table of Contents
 <details open>
