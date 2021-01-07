@@ -17,7 +17,7 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 2. Technologies Used  
 3. Structure
 4. Executive Summary
-   * [1. Chapter 1]
+   * 1. Chapter 1
           * Examining the dataset
           * Dropping rows
           * Fixing a data type
@@ -42,7 +42,7 @@ LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
           * Plotting violations by district
           * Converting stop durations to numbers
           * Plotting stop length
-   * [4. Chapter 4]
+   * 4. Chapter 4
           * Plotting the temperature
           * Plotting the temperature difference
           * Counting bad weather conditions
