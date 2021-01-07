@@ -75,6 +75,19 @@ The Boolean column drugs_related_stop indicates whether drugs were found during 
       <img src="https://github.com/muhammetdalbasti/Data-Analysis-and-Visualization-with-Python/blob/master/images/Annual%20Drug%20Rate.PNG" width=600>
 </p>
 
+
+As we saw in the last exercise, the rate of drug-related stops increased significantly between 2005 and 2015. We might hypothesize that the rate of vehicle searches was also increasing, which would have led to an increase in drug-related stops even if more drivers were not carrying drugs.
+
+We can test this hypothesis by calculating the annual search rate, and then plotting it against the annual drug rate.
+
+    Findings: Hypothesis is false.
+      
+      <h5 align="center">Search Rate and Drug Search</h5>
+<p align="center">
+      <img src="https://github.com/muhammetdalbasti/Data-Analysis-and-Visualization-with-Python/blob/master/images/Drug%20and%20Searched.PNG" width=600>
+</p>
+
+
 Email: edu.dalbasti@gmail.com <br>
 LinkedIn: linkedin.com/in/muhammet-dalbasti-b45267134 <br>
 
