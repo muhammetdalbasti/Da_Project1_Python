@@ -152,7 +152,7 @@ We can test this hypothesis by calculating the annual search rate, and then plot
 * <strong>DA_and_viz_with_Python.ipynb</strong>: Notebooks with all codes.
 * police.csv.zip
 * weather.csv
-* <strong>images</strong: contains images
+* <strong>images</strong>: contains images
 
 </details>
 
